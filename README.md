@@ -1,25 +1,26 @@
-<h1 align="center">Hi 👋, I'm MAHATAB</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, my name is MAHATAB
+#### A passionate frontend developer from Bangladesh
+![A passionate frontend developer from Bangladesh](https://media.licdn.com/dms/image/C4D16AQFBvOz_xBGNjQ/profile-displaybackgroundimage-shrink_350_1400/0/1668679627677?e=1685577600&v=beta&t=Bev68dhun9n2BGrXq4ILthQZbEY-qekbbT1ring2YY0)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahatab-uddin&label=Profile%20views&color=0e75b6&style=flat" alt="mahatab-uddin" /> </p>
+Full-Stack Development (Learning).
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahatab-uddin" alt="mahatab-uddin" /></a> </p>
+Skills: HTML / CSS / Bootstrap 5 / Wordpress / jQuery / PHP
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning Full-Stack Development 
 
-- 📫 How to reach me **mahatab.cse2022@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahatab_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahatab_bd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahatab-uddin-munim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahatab-uddin-munim" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mahatab.uddin.munim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahatab.uddin.munim/" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahatab-uddin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahatab-uddin-munim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahatab.uddin.munim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahatab_official_2020/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mahatab_bd)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahatab-uddin&show_icons=true&locale=en&layout=compact" alt="mahatab-uddin" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahatab-uddin)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahatab-uddin&show_icons=true&locale=en" alt="mahatab-uddin" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatab-uddin)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahatab-uddin&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahatab-uddin)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mahatab-uddin)  
+
+![Profile views](https://gpvc.arturio.dev/mahatab-uddin)  
